@@ -1,2 +1,2 @@
-# Pr-ctica01FP
+# Practica01FP
 El primer reporte de laboratorio
